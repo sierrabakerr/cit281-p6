@@ -38,8 +38,7 @@ You should continue to use git to track completed versions of your code.
 
 ## Project Deliverables:
 
-### 1. p6.js
-[p6.js](p6.js)
+### 1. [p6.js](p6.js)
 
 
 
