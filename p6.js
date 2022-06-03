@@ -1,3 +1,7 @@
+/*
+    CIT 281 Project 6
+    Name: Sierra Baker
+*/
 class Shape {
   constructor(sides = []) {
     //super(args);
